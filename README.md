@@ -1,6 +1,6 @@
 ##Project F4CE :
 
-<img src="https://raw.github.com/AJITHdaemon/F4CE/blob/master/assets/logo/F4CE%20logo.gif" alt="F4CE logo" height=30% width=30%></img>
+<img src="http://s28.postimg.org/5mos27dy5/F4_CE.gif" alt="F4CE logo" height=30% width=30%></img>
 
 ----------------------------------------------------------------------------------------
 ##Contibutors :
