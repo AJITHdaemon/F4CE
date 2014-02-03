@@ -1,5 +1,7 @@
 ##Project F4CE :
 
+<img src="assets/logo/F4CE.gif" alt="F4CE logo" height=30% width=30%></img>
+
 ----------------------------------------------------------------------------------------
 ##Contibutors :
 
