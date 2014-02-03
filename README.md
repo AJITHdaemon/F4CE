@@ -1,7 +1,7 @@
 ##Project F4CE :
 
-<object data="http://i62.tinypic.com/258v8mt.gif" alt="F4CE logo" height=30% width=30%>
- <img src="http://i62.tinypic.com/258v8mt.gif" alt="F4CE logo" height=30% width=30%></img>
+<object data="http://i62.tinypic.com/258v8mt.gif" alt="F4CE logo" height=50% width=50%>
+ <img src="http://i62.tinypic.com/258v8mt.gif" alt="F4CE logo" height=50% width=50%></img>
 </object>
 
 ----------------------------------------------------------------------------------------
