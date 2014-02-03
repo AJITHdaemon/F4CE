@@ -1,6 +1,6 @@
 ##Project F4CE :
 
-<img src="assets/logo/F4CE.gif" alt="F4CE logo" height=30% width=30%></img>
+<img src="http://i62.tinypic.com/258v8mt.gif" alt="F4CE logo" height=30% width=30%></img>
 
 ----------------------------------------------------------------------------------------
 ##Contibutors :
