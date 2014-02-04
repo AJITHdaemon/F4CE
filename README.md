@@ -7,8 +7,10 @@
 ----------------------------------------------------------------------------------------
 ##Contibutors :
 
-### 	Ajith K S	Nitin R
-### 	Ananth K	Manigandan G
+1. [Ajith K S](https://www.facebook.com/ajith.demon)
+2. [Anantha K](https://www.facebook.com/Ant.kashyap)
+3. <nitin92@gmail.com>
+4. [Manigandan G](https://www.facebook.com/manig.guru.9)
 
 ----------------------------------------------------------------------------------------
 
