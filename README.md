@@ -17,7 +17,7 @@
 ##The F4CE project :
 
 
-#### A cloud based graphics interface based on the idea that F4CE could be used to interface graphics application on low compatibility devices. Scriped in python and built on the Kivy framework.
+#### A cloud based graphics interface based on the idea that F4CE could be used to interface graphics application on low compatibility devices. Scripted in python and built on the Kivy framework.
 
 ----------------------------------------------------------------------------------------
 
@@ -39,4 +39,7 @@
 		* [client](https://github.com/AJITHdaemon/F4CE/tree/master/code/client)
 			* [main.py](https://github.com/AJITHdaemon/F4CE/blob/master/code/client/main.py)
 			* [saythis.kv](https://github.com/AJITHdaemon/F4CE/blob/master/code/client/saythis.kv)
-		* server
+		* [server](https://github.com/AJITHdaemon/F4CE/tree/master/code/server)
+			* [serverscript.py](https://github.com/AJITHdaemon/F4CE/tree/master/code/server/serverscript.py)
+			* [stream.py](https://github.com/AJITHdaemon/F4CE/tree/master/code/server/stream.py)
+			* [stream.sh](https://github.com/AJITHdaemon/F4CE/tree/master/code/server/stream.sh)
