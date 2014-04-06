@@ -1,0 +1,21 @@
+#:kivy 1.7.1
+<SayThis>:
+	orientation: 'vertical'
+	video_obj: video_obj
+	Video:
+		id: video_obj
+		source: '/home/karr/kivy-projects/F4CE/code/server/temp.mkv'
+		volume: 0
+	BoxLayout:
+		orientation: 'horizontal'
+		size_hint: 1,None
+		height: play_button.height	
+		Button:
+			id: play_button
+			text:'Play'
+			size_hint: 1,None
+			on_press: root.playvideo()
+		Button:
+			text:'Pause'
+			size_hint: 1,None
+			on_press: root.pausevideo()
